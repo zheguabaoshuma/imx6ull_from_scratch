@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "epit.h": "c",
+        "uart.h": "c",
+        "uartio.h": "c"
+    }
+}
